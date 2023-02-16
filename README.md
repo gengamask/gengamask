@@ -24,9 +24,7 @@ https://img.shields.io/badge/html5
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/junho-kim-b4510422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/junho-kim-b4510422a" height="30" width="40" /></a>
-</p>
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gengamask&show_icons=true&locale=en&layout=compact" alt="gengamask" /></p>
