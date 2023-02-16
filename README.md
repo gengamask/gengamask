@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<p> Again, wellcome to my github profile!! <br> I'm Junho Kim, Front-end developer from South Korea who lives in United States </p>
+<p> Again, wellcome to my github profile!! <br> I'm Junho Kim, Front-end developer from South Korea who lives in Georgia, United States </p>
 
 <br>
 -----------------------------------------------------------------------------------------------------------------------
