@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<p> Again, wellcome to my github profile!! </p>
+<p> Again, wellcome to my github profile!! <br> I have come into the world of coding with full of curiosity and now </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
