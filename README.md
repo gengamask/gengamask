@@ -16,7 +16,7 @@
 
 
 <h3 align="left">Things I code with:</h3>
-(https://img.shields.io/badge/-ReactJS)
+https://img.shields.io/badge/html5
 
 <br>
 -----------------------------------------------------------------------------------------------------------------------
