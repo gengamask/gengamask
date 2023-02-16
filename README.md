@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<p> Again, wellcome to my github profile!! <br> My name is Junho Kim and I was born in South Korea and raised in Arkansas. <br> I have come into the world of coding with full of curiosity and now that curiosity have become my weapon. <br> While the coding is still a full of mystery and I am an adventure who will forever be traveling alongside. <br> I hope you will enjoy my work here in github!! </p>
+<p> Again, wellcome to my github profile!! <br> I'm Junho Kim, Front-end developer from </p>
 
 <br>
 -----------------------------------------------------------------------------------------------------------------------
