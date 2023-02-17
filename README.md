@@ -7,7 +7,6 @@
 
 
 Welcome to my github profile!!  I'm Junho Kim, Front-end developer from Seoul, South Korea who lives in Georgia, United States
-[heart_eyes](heart_eyes)
 
 <br>
 <br>
@@ -15,7 +14,7 @@ Welcome to my github profile!!  I'm Junho Kim, Front-end developer from Seoul, S
 -----------------------------------------------------------------------------------------------------------------------
 
 
-## Thing I code with
+## Things I code with
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
