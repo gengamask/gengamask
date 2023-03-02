@@ -1,6 +1,5 @@
 
 # Hello there My name is Junho Kim
-## A dedicated software engineer who is seeking future
 
 
 -----------------------------------------------------------------------------------------------------------------------
