@@ -35,8 +35,8 @@ Welcome to my github profile!!  I'm Junho Kim, Front-end developer from Seoul, S
 
 
 ## Connect with me
-![Linkedin](https://img.shields.io/badge/Linkedin-276CFF.svg?style=for-the-badge&logo=Linkedin&logoColor=white)
-![github](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
+[Linkedin](https://www.linkedin.com/in/junho-kim-b4510422a/)
+[github](https://github.com/gengamask)
 
 
 <br>
